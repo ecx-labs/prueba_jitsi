@@ -1,0 +1,6 @@
+package com.ecxlabs.livekitintegration
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

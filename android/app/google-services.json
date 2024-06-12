@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514956723433",
+    "project_id": "livekit-integration-fxqcdq",
+    "storage_bucket": "livekit-integration-fxqcdq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514956723433:android:76854323a9e0c17d03dc78",
+        "android_client_info": {
+          "package_name": "com.ecxlabs.livekitintegration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTZHMS6Ol5DWlJv56e3ssGnDTmAuHA9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
